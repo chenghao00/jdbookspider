@@ -1,5 +1,5 @@
 # jdbookspider
-使用scrapy-redis爬取京东图书
+使用scrapy-redis爬取京东图书，图书价格由ajax生成
 
 ## 图书价格抓取
 
